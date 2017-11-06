@@ -52,7 +52,9 @@ Finally, the following blogpost series by Duncan Smith elaborates on what is sof
 ### Some books on Software Craftsmanship
 
 [Book: Software Craftsmanship: The new imperative](https://www.amazon.com/Software-Craftsmanship-Imperative-Pete-McBreen/dp/0201733862), by Pete McBreen (2001)
+
 [Book: Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman, 2009](https://www.amazon.de/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382) by Dave Hoover, Adewale Oshineye.
+
 [Book: The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert-ebook/dp/B00QXAGIDO), by Sandro Mancuso (2014)
 
 ## Three concepts
@@ -78,15 +80,21 @@ And now, did I tell you that I love how Duncan Smith writes? Here we go:
 ### Open Space (Technology)
 
 [Book: Open Space Technology: A User's Guide](https://www.amazon.com/Open-Space-Technology-Users-Guide/dp/1576754766), by Harrison Owen (originally published in 1993)
+
 [Web: All the things Open Space-related](openspaceworld.org)
+
 [Blog: The Open Space, explained](http://www.koenmetsu.com/blog/open-space/), by Koen Metsu (2016)
 
 ### Apprenticeship
 
 [Book: Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman, 2009](https://www.amazon.de/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382), by Dave Hoover, Adewale Oshineye.
+
 [Videos: Corey Haines' Pair-Programming Tour](https://vimeo.com/channels/pairprogrammingtour), by Corey Haines (2008)
+
 [Blog: Corey's pair programming tour, first post](http://blog.coreyhaines.com/2008/12/welcome.html), by Corey Haines (2008)
+
 [Blog: Journeyman weeks](http://blog.dtem.me/search/label/journeyman%20weeks), by Daniel Temme
+
 [Blog: Craftsmanship tour](http://blog.code-cop.org/2013/08/my-craftsmanship-tour.html), by Peter Kofler
 
 ## Software Crafting Community :-)
@@ -94,27 +102,39 @@ And now, did I tell you that I love how Duncan Smith writes? Here we go:
 ### Communities
 
 [Web: Union of German-speaking Software Crafting communities](https://www.softwerkskammer.org/)
+
 [Web / calendar: Events in Europe 2017](https://www.softwerkskammer.org/wiki/events/2017)
+
 [Web / Meetup page: Software Craftsmanship Berlin](https://www.meetup.com/Software-Craftsmanship-Berlin/)
 
 ### SoCraTes events
 
 [Web: SoCraTes (un)conferences: history from 2011 to today.](https://www.socrates-conference.de/history.html)
+
 [Web: SoCraTes DE](https://www.socrates-conference.de/)
+
 [Web: Socrates Day Berlin 2017](https://www.meetup.com/Software-Craftsmanship-Berlin/events/241973901/)
+
 [Web: SoCraTes BE](http://socratesbe.org/)
+
 [Web: SoCraTes Canaries](https://www.socracan.com/)
+
 [Web: SoCraTes FR](https://socrates-fr.github.io/)
+
 [Web: SoCraTes UK](http://socratesuk.org/)
+
 [Web: SoCraTes IT](http://www.socrates-conference.it/)
 
 ### Code Katas
 
 [Repo: Empty projects for different languages with a failing test](https://github.com/swkBerlin/kata-bootstraps), by SWK Berlin.
+
 [Web: Archive of code katas](http://www.codekatas.org/)
+
 [Web: Code Katas online](https://www.codewars.com/)
 
 ### Coderetreats
 
 [Web: Global Day of Coderetreat: events & resources](coderetreat.org)
+
 [Book: Coderetreat: hosting and facilitating](https://leanpub.com/coderetreat), by Adrian Bolboacă and Alexandru Bolboacă.
