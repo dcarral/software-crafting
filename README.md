@@ -1,6 +1,9 @@
 # Software Crafting
 
-This is a list of Software Crafting-related resources, provided as companion material for the talk [“What is (not) Software Crafting?“](http://www.rug-b.de/topics/wtf-is-not-software-craftsmanship), delivered at [Ruby User Group Berlin](http://www.rug-b.de/), in September 2017.
+This is a list of Software Crafting-related resources, provided as companion material for the talk [“What is (not) Software Crafting?“](http://www.rug-b.de/topics/wtf-is-not-software-craftsmanship), delivered at:
+
+- [Ruby User Group Berlin](http://www.rug-b.de/), September 2017.
+- [AsturiasHacking](http://www.asturiashacking.org), November 2017.
 
 ## From craftsmanship to crafting
 
