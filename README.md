@@ -109,6 +109,22 @@ And now, did I tell you that I love how Duncan Smith writes? Here we go:
 
 [Web / Meetup page: Software Craftsmanship Berlin](https://www.meetup.com/Software-Craftsmanship-Berlin/)
 
+### Communities @ Spain
+
+[Mallorca Software Craftsmanship](https://www.meetup.com/Mallorca-Software-Craftsmanship/)
+
+[Software Crafters Bilbao](https://www.meetup.com/Software-Crafters-Bilbao/)
+
+[Pamplona / Iruña Software Crafters](https://www.meetup.com/es/Pamplona-Software-Craftsmanship/)
+
+[Software Crafters Madrid](https://www.meetup.com/madswcraft/)
+
+[Barcelona Software Craftsmanship](https://www.meetup.com/Barcelona-Software-Craftsmanship/)
+
+[Valencia Software Craftsmanship](https://www.meetup.com/es-ES/Valencia-Software-Craftsmanship/)
+
+[Gran Canaria Developers Community](https://www.meetup.com/es/Gran-Canaria-Developer-Community/)
+
 ### SoCraTes events
 
 [Web: SoCraTes (un)conferences: history from 2011 to today.](https://www.socrates-conference.de/history.html)
