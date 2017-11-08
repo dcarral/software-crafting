@@ -16,7 +16,9 @@ For the sake of inclusiveness, this amazing Gist speaks by itself:
 [Blog: Software Crafting Week: A brief history](http://www.shino.de/2010/05/14/software-craftsmanship-week-a-brief-history/), by Markus Gärtner.
 
 [Web: eXtreme Programming](http://www.extremeprogramming.org)
+
 [Web: Manifesto for Agile Software Development](http://agilemanifesto.org/)
+
 [Web: Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
 
 ### Related discussions on what is it & why does it matter
@@ -25,7 +27,7 @@ I find super useful the work by Markus Gärtner (again). You can find his attemp
 
 [Blog: Was ist Software Craftsmanship?](http://www.mgaertne.de/2011/11/was-ist-software-craftsmanship/), by Markus Gärtner (German)
 
-The movement generated tons of discussions, as example:
+The movement generated tons of discussions, e.g.:
 
 [Blog: Programming is not a craft](https://dannorth.net/2011/01/11/programming-is-not-a-craft/), by Dan North.
 
