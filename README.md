@@ -1,15 +1,15 @@
-# Software Crafting
+# *“What is (not) Software Crafting?”*
 
-This is a list of Software Crafting-related resources, provided as companion material for the talk [“What is (not) Software Crafting?“](http://www.rug-b.de/topics/wtf-is-not-software-craftsmanship), delivered at:
+Hi, I'm the living repository provided as companion material to the talk *“What is (not) Software Crafting?”*, so far delivered at:
 
-- [Ruby User Group Berlin](http://www.rug-b.de/), September 2017.
-- [AsturiasHacking](http://www.asturiashacking.org), November 2017.
+- *[Ruby User Group Berlin](http://www.rug-b.de/topics/what-is-not-software-crafsmanship-541)* @ *solarisBank* (September, 2017).
+- *[AsturiasHacking](https://www.meetup.com/AsturiasHacking/events/244424657/)* @ *El Manglar (Cultural Center)* in Oviedo, Spain (November 7th, 2017).
 
-## Talk abstract 
+## Talk description 
 
-> What do we mean by software *crafting*? What not? How and why was it born? By the way, wasn't it called *craftsmanship*?  Anyway: why does it matter?
+“What do we mean by Software *Crafting*? What not? How and why was it born? By the way, wasn't it called *Craftsmanship*? Anyway: why does it matter?
 
-> After answering all these questions and introducing concepts like *deliberate practice* and *Open Space Technology*, we will explore the current status of Software Crafting communities and events across Europe.
+After answering all these questions and introducing concepts like *deliberate practice* and *Open Space Technology*, we will explore the current status of Software Crafting communities and events across Europe.”
 
 ## Resources
 
