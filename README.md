@@ -13,6 +13,10 @@ After answering all these questions and introducing concepts like *deliberate pr
 
 ## Resources
 
+### Note
+
+On February, 2018, [@rachelcarmena](https://github.com/rachelcarmena) released [“Silent talk: Software as a Craft”](https://codurance.com/videos/2018-02-23-software-as-a-craft/). Awesome work, completely recommended.
+
 ### From craftsmanship to crafting
 
 For the sake of inclusiveness, this amazing Gist speaks by itself:
