@@ -36,7 +36,7 @@ On February, 2018, [@rachelcarmena](https://github.com/rachelcarmena) released [
 
 [Web: Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
 
-#### Related discussions on what is it & why does it matter
+#### Related historical discussions on what is it & why does it matter
 
 I find super useful the work by Markus Gärtner (again). You can find his attempt at defining craftsmanship here:
 
@@ -66,7 +66,7 @@ Finally, the following blogpost series by Duncan Smith elaborates on what is sof
 
 [Blog: Is Software Craftsmanship some code-obsessed mishmash of martial arts and carpentry?](http://itsadeliverything.com/is-software-craftsmanship-some-code-obsessed-mishmash-of-martial-arts-and-carpentry), by Duncan Smith.
 
-#### Some books on Software Craftsmanship
+#### Some books related to Software Crafting
 
 [Book: Software Craftsmanship: The new imperative](https://www.amazon.com/Software-Craftsmanship-Imperative-Pete-McBreen/dp/0201733862), by Pete McBreen (2001)
 
@@ -74,9 +74,9 @@ Finally, the following blogpost series by Duncan Smith elaborates on what is sof
 
 [Book: The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert-ebook/dp/B00QXAGIDO), by Sandro Mancuso (2014)
 
-### Three concepts
+### Three key concepts
 
-#### Deliberate practice
+#### 1.- Deliberate practice
 
 First some papers and books:
 
@@ -94,7 +94,7 @@ And now, did I tell you that I love how Duncan Smith writes? Here we go:
 
 [Blog: Making sense of the deliberate practice debate](https://www.redgreencode.com/making-sense-of-the-deliberate-practice-debate/), by Duncan Smith (2015)
 
-#### Open Space (Technology)
+#### 2.- Open Space (Technology)
 
 [Book: Open Space Technology: A User's Guide](https://www.amazon.com/Open-Space-Technology-Users-Guide/dp/1576754766), by Harrison Owen (originally published in 1993)
 
@@ -102,7 +102,7 @@ And now, did I tell you that I love how Duncan Smith writes? Here we go:
 
 [Blog: The Open Space, explained](http://www.koenmetsu.com/blog/open-space/), by Koen Metsu (2016)
 
-#### Apprenticeship
+#### 3.- Apprenticeship
 
 [Book: Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman, 2009](https://www.amazon.de/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382), by Dave Hoover, Adewale Oshineye.
 
@@ -122,7 +122,7 @@ And now, did I tell you that I love how Duncan Smith writes? Here we go:
 
 [Web / calendar: Events in Europe 2017](https://www.softwerkskammer.org/wiki/events/2017)
 
-[Web / Meetup page: Software Craftsmanship Berlin](https://www.meetup.com/Software-Craftsmanship-Berlin/)
+[Web / Meetup page: SWK Berlin](https://www.meetup.com/Software-Craftsmanship-Berlin/)
 
 #### Communities @ Spain
 
