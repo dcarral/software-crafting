@@ -124,7 +124,7 @@ And now, did I tell you that I love how Duncan Smith writes? Here we go:
 
 [Web: Union of German-speaking Software Crafting communities](https://www.softwerkskammer.org/)
 
-[Web / calendar: Events in Europe 2017](https://www.softwerkskammer.org/wiki/events/2017)
+[Web / calendar: Events in Europe 2018](https://www.softwerkskammer.org/wiki/events/2018)
 
 [Web / Meetup page: SWK Berlin](https://www.meetup.com/Software-Craftsmanship-Berlin/)
 
