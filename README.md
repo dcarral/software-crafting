@@ -130,15 +130,15 @@ And now, did I tell you that I love how Duncan Smith writes? Here we go:
 
 #### Communities @ Spain
 
+[Software Crafters Madrid](https://www.meetup.com/madswcraft/)
+
+[Barcelona Software Crafters](https://www.meetup.com/Barcelona-Software-Craftsmanship/)
+
 [Mallorca Software Craftsmanship](https://www.meetup.com/Mallorca-Software-Craftsmanship/)
 
 [Software Crafters Bilbao](https://www.meetup.com/Software-Crafters-Bilbao/)
 
 [Pamplona / Iruña Software Crafters](https://www.meetup.com/es/Pamplona-Software-Craftsmanship/)
-
-[Software Crafters Madrid](https://www.meetup.com/madswcraft/)
-
-[Barcelona Software Craftsmanship](https://www.meetup.com/Barcelona-Software-Craftsmanship/)
 
 [Valencia Software Craftsmanship](https://www.meetup.com/es-ES/Valencia-Software-Craftsmanship/)
 
