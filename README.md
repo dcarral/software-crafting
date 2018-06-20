@@ -106,6 +106,8 @@ And now, did I tell you that I love how Duncan Smith writes? Here we go:
 
 [Book: Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman, 2009](https://www.amazon.de/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382), by Dave Hoover, Adewale Oshineye.
 
+#### Journey-level tours
+
 [Videos: Corey Haines' Pair-Programming Tour](https://vimeo.com/channels/pairprogrammingtour), by Corey Haines (2008)
 
 [Blog: Corey's pair programming tour, first post](http://blog.coreyhaines.com/2008/12/welcome.html), by Corey Haines (2008)
@@ -113,6 +115,8 @@ And now, did I tell you that I love how Duncan Smith writes? Here we go:
 [Blog: Journeyman weeks](http://blog.dtem.me/search/label/journeyman%20weeks), by Daniel Temme
 
 [Blog: Craftsmanship tour](http://blog.code-cop.org/2013/08/my-craftsmanship-tour.html), by Peter Kofler
+
+[Talk: Software on the road, the journey](https://vimeo.com/267796666), by me a.k.a. Daniel Carral :)
 
 ### Software Crafting Community :-)
 
