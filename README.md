@@ -6,9 +6,9 @@ Hi, I'm the living repository provided as companion material to the talk *“Wha
 - *[AsturiasHacking](https://www.meetup.com/AsturiasHacking/events/244424657/)* @ *El Manglar (Cultural Center)* in Oviedo, Spain (November 7th, 2017).
 - *[Ruby User Group Berlin](http://www.rug-b.de/topics/what-is-not-software-crafsmanship-541)* @ *solarisBank* (September 7th, 2017).
 
-## Talk description
+## Abstract
 
-“What do we mean by Software *Crafting*? What not? How and why was it born? By the way, wasn't it called *Craftsmanship*? Anyway: why does it matter?
+“What do we mean by Software *Crafting* or Software as a Craft? What not? How and why was it born? By the way, wasn't it called Craftsmanship? Anyway: why does it matter?
 
 After answering all these questions and introducing concepts like *deliberate practice* and *Open Space Technology*, we will explore the current status of Software Crafting communities and events across Europe.”
 
